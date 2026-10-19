@@ -17,7 +17,7 @@
       "sha256": "<64 lowercase hex characters>",
       "readme": "addins/jm-accounting/1.1.0/README.md",
       "changelog": "addins/jm-accounting/1.1.0/CHANGELOG.md"
-    },
+    }
     
   ]
 }
