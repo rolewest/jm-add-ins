@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "generated": "2026-10-19T12:00:00.000Z",
+  "repository": "https://github.com/rolewest/jm-add-ins",
+  "addins": [
+    {
+      "id": "jm-accounting",
+      "name": "Books",
+      "version": "1.1.0",
+      "summary": "Keep the books: what came in, went out, and what is still owed or owing.",
+      "publisher": "JM",
+      "works": ">=0.2.0",
+      "icon": "book-open",
+      "image": "addins/jm-accounting/1.1.0/icon.png",
+      "file": "addins/jm-accounting/1.1.0/jm-accounting-1.1.0.jmadd",
+      "size": 123456,
+      "sha256": "<64 lowercase hex characters>",
+      "readme": "addins/jm-accounting/1.1.0/README.md",
+      "changelog": "addins/jm-accounting/1.1.0/CHANGELOG.md"
+    },
+    
+  ]
+}
